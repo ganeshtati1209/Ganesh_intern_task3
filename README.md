@@ -27,7 +27,7 @@ It learns from input text and generates **new text sequences** based on statisti
 
 ### ✅ **1. Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/ganeshtati1209/Ganesh_intern_task3.git
 cd YOUR_REPO_NAME
 ```
 
@@ -61,7 +61,7 @@ Generated Text:
 ---
 
 ## 📜 License
-This project is open-source under the **MIT License**.
+This project is open-source .
 
 ---
 
